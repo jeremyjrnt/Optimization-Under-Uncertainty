@@ -29,6 +29,7 @@ The projects progressively cover:
 
 ## 📁 Repository Structure
 
+```text
 Optimization_Under_Uncertainty/
 │
 ├── Robust_Optimization.ipynb
