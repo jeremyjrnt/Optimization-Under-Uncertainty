@@ -172,7 +172,7 @@ Proposed a **doubling scheme** to automatically determine the upper bound r̄ fo
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Stack
 
 | Category | Tools / Libraries |
 |-----------|------------------|
